@@ -1,0 +1,6 @@
+username,firstname,lastname,email,password,course1,role1,course2,role2,course3,role3,course4,role4,course5,role5,course6,role6,course7,role7,course8,role8,course9,role9
+tteacher2last,Teacher2First,Teacher2Last,tteacher2last@ccsmb.com,pass5-PASS6-70,Class 2,editingteacher,
+flast1,First1,Last1,flast1@ccsmb.com,pass1-PASS4-40,Class 1,student,Class 2,student,
+tteacher1last,Teacher1First,Teacher1Last,tteacher1last@ccsmb.com,pass4-PASS7-79,Class 1,editingteacher,
+tteacher3last,Teacher3First,Teacher3Last,tteacher3last@ccsmb.com,pass5-PASS1-87,Class 2,editingteacher,
+flast2,First2,Last2,flast2@ccsmb.com,pass5-PASS3-70,Class 2,student,
